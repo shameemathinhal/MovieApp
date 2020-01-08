@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //standard margin
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_very_small">4dp</dimen>
+    <dimen name="margin_18dp">18dp</dimen>
+
+    //standard padding
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_very_small">4dp</dimen>
+
+    //image width
+    <dimen name="splash_image_height">54dp</dimen>
+    <dimen name="login_layout_width">156dp</dimen>
+
+    //additional margin
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_80dp">80dp</dimen>
+
+    //text size
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+
+
+</resources>
